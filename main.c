@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Hello World\n");
+  
+  printf("Student in CS 211 attending Wedneday Lab");
   return 0;
 }
